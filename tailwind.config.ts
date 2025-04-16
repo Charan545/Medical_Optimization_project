@@ -61,6 +61,17 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				medical: {
+					primary: '#0284c7', // sky-600
+					secondary: '#0ea5e9', // sky-500
+					accent: '#7dd3fc', // sky-300
+					dark: '#0f172a', // slate-900
+					light: '#f8fafc', // slate-50
+					success: '#10b981', // emerald-500
+					warning: '#f59e0b', // amber-500
+					danger: '#ef4444', // red-500
+					gray: '#64748b', // slate-500
 				}
 			},
 			borderRadius: {
