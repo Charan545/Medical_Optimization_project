@@ -75,7 +75,7 @@ const Index = () => {
       <footer className="bg-slate-50 dark:bg-slate-800/30 border-t mt-12 py-6">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
           <p>Medical Supply Distribution Optimizer &copy; {new Date().getFullYear()}</p>
-          <p className="mt-1">Powered by mathematical optimization algorithms</p>
+          <p className="mt-1">Powered by Kl Students(Charan,Teja) optimization algorithms</p>
         </div>
       </footer>
     </div>
